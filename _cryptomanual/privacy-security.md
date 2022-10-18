@@ -3,7 +3,7 @@ title: "Privacy & Security"
 excerpt: "The easy way to start learning about cryptocurrencies."
 ---
 
-# Privacy & Security {#ch:security}
+## Improve your privacy & security {#ch:security}
 
 There are several things you could and should pay attention to when you
 start your crypto-journey. An initial useful selection is provided in
@@ -13,9 +13,13 @@ better for you, for whatever reason. Because of this, we've decided to
 keep it general and provide a link, a short description plus an example
 where possible.
 
-> ::: flushright
-> --- **cryptomanuals.com**
-> :::
+>
+*"Holding and managing your own wealth comes with great re-
+sponsibility. You - and you alone - are responsible for your own in-
+vestments as there is no bank or other intermediary or third party
+involved in handling and safeguarding your assets."*<br>
+--**cryptomanuals.com**
+
 
 ## Threat modeling
 
@@ -59,13 +63,12 @@ their servers and are never accessible by LastPass. A password manager
 eliminates the reuse of old passwords and makes sure that you use unique
 and robust passwords.
 
-::: tipbox
-**TIP** Use Bitwarden, a free and open-source password manager which is
+{: .notice--info}
+:bulb: *Use Bitwarden, a free and open-source password manager which is
 very easy to oprate. Bitwarden generates strong passwords that are all
 encrypted. Weak passwords never need to be (re)used because only the
 end-user has access to this protected environment. Go to
-[Bitwarden](https://bitwarden.com/).
-:::
+[Bitwarden](https://bitwarden.com/).*
 
 ## Two-Factor Authentication (2FA) {#sec:2FA}
 
@@ -85,14 +88,13 @@ second layer security is undeniable and should be a part of everyone's
 login process to protect against phishing attacks, fraud, identity, and
 monetary theft.
 
-::: tipbox
-**TIP** In our case, you will most likely use your phone to download an
+{: .notice--info}
+:bulb: *In our case, you will most likely use your phone to download an
 application such as Google Authenticator (mobile device only) or Authy
 (mobile and desktop app). In this case, we recommend Authy since it
 offers a way to back up your codes on multiple devices in case you lose
 access to one of them (mobile, desktop or tablet). Go to
-[Authy](https://authy.com/).
-:::
+[Authy](https://authy.com/).*
 
 ## Virtual Private Networks (VPN)
 
@@ -107,11 +109,10 @@ prevent disclosure of private information, VPNs typically allow only
 authenticated remote access using tunneling protocols and encryption
 techniques.
 
-::: tipbox
-**TIP** ProtonVPN offers excellent free and paid solutions, which come
+{: .notice--info}
+:bulb: *ProtonVPN offers excellent free and paid solutions, which come
 in tandem with their encrypted email services provided by ProtonMail. Go
-to [Protonmail](https://protonmail.com/).
-:::
+to [Protonmail](https://protonmail.com/).*
 
 ## Encrypted email services
 
@@ -130,16 +131,11 @@ Nobody can eavesdrop and read any of your messages. Privacy is not an
 optional mode - it's just the way these applications work. Every
 message, every call and every time.
 
-::: tipbox
-TIP As an alternative to the traditional messaging service WhatsApp, we
+{: .notice--info}
+:bulb: *As an alternative to the traditional messaging service WhatsApp, we
 recommend Signal. Signal enables fully encrypted messages, and offers
 numerous additional options for enhanced user privacy. Have a look at
-[Signal](https://signal.org/).
-:::
-
-::: borderbox
-![image](img/ch-privacy/signal.png){width="\\textwidth"}
-:::
+[Signal](https://signal.org/).*
 
 ## Alternate internet browsers
 
@@ -160,12 +156,11 @@ source, and built by a team of privacy focused, performance oriented
 pioneers of the web, founded by the inventor of JavaScript and
 co-founder of Mozilla.
 
-::: tipbox
-**TIP** Brave uses the cryptocurrency BAT (Basic Attention Token) which
+{: .notice--info}
+:bulb: *Brave uses the cryptocurrency BAT (Basic Attention Token) which
 allows users to tip their favorite websites and content creators. You
 can also earn crypto while browsing and using the internet. Learn more?
-Go to [Brave](https://brave.com/urm569).
-:::
+Go to [Brave](https://brave.com/urm569).*
 
 ## Private search engines
 
@@ -177,14 +172,13 @@ advertisers that track you across the internet. Whereas other search
 engines can also track you in private browsing mode, DuckDuckGo never
 tracks users.
 
-::: tipbox
-**TIP** DuckDuckGo is a search engine extension and application
-(built-in Brave). It does not collect or share personal information and
+{: .notice--info}
+:bulb: *DuckDuckGo is built-in Brave browser. It does not collect or share personal information and
 does not store your search history. As a result, it has no data to sell
 to advertisers who are tracking you over the Internet. While other
 search engines can still track you in private browsing mode, DuckDuckGo
-*never* tracks users. Checkout [DuckDuckGo](https://duckduckgo.com/).
-:::
+*never* tracks users. Checkout [DuckDuckGo](https://duckduckgo.com/).*
+
 
 ## Software updates
 
@@ -203,7 +197,9 @@ least one copy (or printout) of your passwords, private keys, passwords,
 PINs or seed phrases in a safe location. If for any reason you lose
 access to your mobile, or your desktop computer breaks down, you can
 access your funds from another device and restore your respective
-wallets with your backup. Ultimately, the best method of storing your
+wallets with your backup. 
+
+Ultimately, the best method of storing your
 sensitive login information is by thinking of as many bad scenarios as
 you can think of and plan accordingly, creating redundancy. For
 instance, it is completely ill-advised storing your data on a
@@ -234,14 +230,13 @@ out there, and we advise you to browse your spam folder if you're unsure
 what phishing might look like as you will find plenty examples in your
 inbox.
 
-::: tipbox
-**TIP** If a proposition sounds too good to be true? Be careful, as this
+{: .notice--info}
+:bulb: *If a proposition sounds too good to be true? Be careful, as this
 is true for 99% of all cases! Be extra cautious when you are asked to
 click on some unknown link or log into an account in order to claim free
 crypto or a reward of any kind. Remember the points identified below.
 Learn more at
-[Securitymetrics](https://www.securitymetrics.com/blog/7-ways-recognize-phishing-email).
-:::
+[Securitymetrics](https://www.securitymetrics.com/blog/7-ways-recognize-phishing-email).*
 
 Legit online activities will ***always***:
 

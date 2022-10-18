@@ -1,11 +1,11 @@
 ---
 title: "Cryptocurrency Exchanges"
 subtitle: 
-excerpt: "What are cryptocurrency exchanges and how do they differ? Let's look at the different exchange types and their
+excerpt: "There is more to cryptocurrency exchanges then meets the eye. Let's look at the different exchange types and their
 characteristics in more detail and provide a selection of several cryptocurrency exchanges."
 ---
 
-## What are cryptocurrency exchanges
+## What are cryptocurrency exchanges?
 
 A cryptocurrency exchange is a marketplace where you can buy, sell or
 exchange cryptocurrencies for other digital cryptocurrencies and

@@ -3,8 +3,6 @@ title: "Wallets"
 excerpt: "Store all of your crypto assets safely by using personal (hardware) wallets."
 ---
 
-# Cryptocurrency Wallets {#ch:wallets}
-
 Traditionally, you hold your cash in your wallet or banks store your
 fiat currency in an account in your name. The consensus is that you have
 access and can withdraw your currency at any time. In theory, this might
@@ -14,11 +12,11 @@ assets in such a way that only you can access them, you have full
 control at any time, without counterparty risk, because you do not
 depend on anyone to get access.
 
-> ::: flushright
-> --- **Simon Dixon**
-> :::
+>
+*"When you put your money in the bank, the bank becomes the owner of that money. With Bitcoin, you own your money. When the banks own that money, they spend it as they wish. When you own it, you spend it as you wish. It is censorship-resistant, and no one decides whether you can or cannot spend it and on what you will spend it on."* <br> --**Simon Dixon**
 
-![image](illustrations/resized_CRYPTO_KEY_1_PART_3.jpg){width="\\textwidth"}
+
+![image](/assets/images/branding/CRYPTO_KEY_1_PART_3.png)
 
 ## What are cryptocurrency wallets {#cryptocurrency-wallets}
 
@@ -30,11 +28,9 @@ have the required proof (respectively identity, key or password). If you
 want to own and use Bitcoin or any other cryptocurrency, you will need
 to have a wallet that supports the specific coin or token.
 
-::: cryptobox
-**PLAY ON THE BLOCKCHAIN**
-
-[^1]
-:::
+{: .notice--info}
+:earth_africa: ***PLAY AROUND ON THE BLOCKCHAIN*** <br>
+A cryptocurrency wallet functions in the same way as your bank account in the sense that you can interface with the network and transact (deposit and withdraw) (crypto)currencies (\$, \pounds, \euro) to and from your bank account. With a cryptocurrency wallet, you manage your cryptocurrencies in the form of validated transactions on the blockchain. The wallet generates and stores private and public keys, interacts with the respective network (blockchain), and enables users to perform and sign transactions
 
 ## Different wallet types
 
@@ -73,16 +69,10 @@ Desktop wallets offer one of the highest levels of security; however, if
 your computer is hacked or gets a virus, there is a possibility of
 losing all your funds.
 
-::: borderbox
-![image](img/ch-wallets/atomic_wallet1.jpg){width="\\textwidth"}
-:::
-
-::: tipbox
-**TIP** Dekstop (software) wallets support many cryptocurrencies and are
-easy to use. Perfect for beginners. You can use [Atomic
-Wallet](https://atomicwallet.io/) or [Exodus
-Wallet](https://www.exodus.io/).
-:::
+{: .notice--info}
+:bulb: *Desktop (software) wallets support many cryptocurrencies and are
+easy to use. Perfect for beginners. You can use [Atomic Wallet](https://atomicwallet.io/) or 
+[Exodus Wallet](https://www.exodus.io/).*
 
 #### Mobile wallets (hot)
 
@@ -122,10 +112,6 @@ Examples of non-hosted wallets are
 [MetaMask](https://www.metamask.io). Both enable users to fully control
 the cryptocurrencies themselves and are easy to manage and operate.
 
-::: borderbox
-![image](img/ch-wallets/metamask.png){width="\\textwidth"}
-:::
-
 ### Hardware wallets (cold)
 
 These differ from software wallets in that they store a user's private
@@ -138,14 +124,11 @@ in their device to any internet-enabled computer or device, enter a pin,
 send currency and confirm. Hardware wallets make it possible to easily
 transact while also keeping your money offline and away from danger.
 
-::: tipbox
-**TIP** Hardware wallets store the private keys in a protected
+{: .notice--info}
+:bulb: *Hardware wallets store the private keys in a protected
 environment of the USB-device and the keys cannot be exported as text.
 In addition, hardware wallets are immune to computer viruses. For
-ultimate security, consider using a
-[Ledger](https://shop.ledger.com/pages/ledger-nano-x?r=1849e3ffabd0)
-Hardware wallet.
-:::
+ultimate security, consider [using a Ledger hardware wallet](https://shop.ledger.com/pages/ledger-nano-x?r=1849e3ffabd0).*
 
 ### Paper wallets (cold)
 
@@ -162,15 +145,10 @@ your software wallet. This process, often referred to as 'sweeping', can
 either be done manually by entering your private keys or by scanning the
 QR code on the paper wallet.
 
-::: borderbox
-![image](img/ch-wallets/paper-wallet-bitcoin.jpg){width="\\textwidth"}
-:::
-
-::: tipbox
-**TIP** Use a cold wallet (hardware) to safely store the bulk of your
+{: .notice--info}
+:bulb: *Use a cold wallet (hardware) to safely store the bulk of your
 crypto. Hot wallets (mobile, desktop or online) for that allocation of
-your portfolio with which you actively place buy and sell orders.
-:::
+your portfolio with which you actively place buy and sell orders.*
 
 ## Important wallet considerations
 
@@ -192,15 +170,15 @@ control over your funds.
 Everyone knows exchanges are subject to attacks from malicious parties,
 trying to gain access to the funds of all users and the exchange
 reserves. For example, you sign up with an exchange, create an account
-protected with a password ( and 2FA) and the exchange gets hacked or
+protected with a password (and 2FA) and the exchange gets hacked or
 otherwise compromised; you might well lose your investments since the
 hackers now have access to the private keys of registered users of the
 exchange. Now the exchange functions precisely the same as a regular
 bank.
 
-> ::: flushright
-> --- **proofofkeys.com**
-> :::
+>
+*"Not your keys, not your crypto."* <br>
+--**ProofOfKeys**
 
 ### Security and technical complexity
 
@@ -216,7 +194,7 @@ systems. Assessing what an acceptable level of risk for your specific
 situation and circumstances is based on your commitment and invested
 funds.
 
-### Which wallet is best for me? {#which-wallet-is-best-for-me .unnumbered}
+### Which wallet is best for me?
 
 There are a lot of different wallets available and more diverse and
 advanced wallets are being launched frequently. Before selecting a
@@ -228,12 +206,11 @@ planning on using a host of cryptocurrencies, or only Bitcoin? Do you
 require access to your digital wallet from multiple devices or just your
 mobile phone?
 
-::: tipbox
-**TIP** Take the time to assess your requirements and only then decide
+{: .notice--info}
+:bulb: *Take the time to assess your requirements and only then decide
 on the most suitable wallet(s) for you. You cannot go wrong with the
 wallets we recommend, with which you will have a complete cryptocurrency
-set-up.
-:::
+set-up.*
 
 ## Combinations of cryptocurrency wallets
 
@@ -255,28 +232,16 @@ wallet(s) for you.
 ::: tabular
 llll
 
-**Wallet** & **Support** & **Platform** & **URL**\
-
-Ledger & multi & hardware &
-[ledger.com](https://shop.ledger.com/pages/ledger-nano-x?r=1849e3ffabd0)\
-KeepKey & multi & hardware & [shapeshift.io](http://lddy.no/aczp)\
-Trezor & multi & hardware &
-[trezor.io](https://shop.trezor.io/?offer_id=10&aff_id=3118)\
-Electrum & BTC & desktop & [electrum.org](https://electrum.org/#home)\
-Atomic & multi & desktop & [atomicwallet.io](https://atomicwallet.io/)\
-MEW & ETH & web & [myetherwallet.com](https://www.myetherwallet.com/)\
-MetaMask & ETH & web & [metamask.io](https://metamask.io/)\
-Exodus & multi & desktop & [exodus.io](https://exodus.io/)\
-Ethos & multi & mobiel &
-[ethos.io](https://www.ethos.io/universal-wallet/)\
-Abra & multi & mobiel & [abra.com](https://www.abra.com/)\
-Edge & multi & mobiel & [edge.app](https://edge.app/)\
-Changelly & multi & web & [changelly.com](https://changelly.com/)\
-ShapeShift & multi & web &
-[shapeshift.com](https://shapeshift.com/#top)\
-:::
-
-[]{#tab:walletoverview label="tab:walletoverview"}
-
-[^1]: Ethos (2018); [What are Cryptocurrency Wallets, Private Keys and
-    Addresses](https://www.ethos.io/what-are-cryptocurrency-wallet-private-keys-addresses/).
+**Wallet** | **Support** | **Platform** | **URL** |
+MetaMask | ETH | web | [metamask.io](https://metamask.io/)
+Ledger | multi | hardware | [ledger.com](https://shop.ledger.com/pages/ledger-nano-x?r=1849e3ffabd0)
+KeepKey | multi | hardware | [shapeshift.io](http://lddy.no/aczp)
+Trezor | multi | hardware |[trezor.io](https://shop.trezor.io/?offer_id=10&aff_id=3118)
+Electrum | BTC | desktop | [electrum.org](https://electrum.org/#home)
+Atomic | multi | desktop | [atomicwallet.io](https://atomicwallet.io/)
+MEW | ETH | web | [myetherwallet.com](https://www.myetherwallet.com/)
+Exodus | multi | desktop | [exodus.io](https://exodus.io/)
+Abra | multi | mobiel | [abra.com](https://www.abra.com/)
+Edge | multi | mobiel | [edge.app](https://edge.app/)
+Changelly | multi | web | [changelly.com](https://changelly.com/)
+ShapeShift | multi | web | [shapeshift.com](https://shapeshift.com/#top)
