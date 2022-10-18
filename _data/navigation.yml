@@ -15,21 +15,21 @@ cryptomanual:
 
   - title: Cryptomanual
     children:
-      - title: Cryptocurrency Exchanges
+      - title: EXCHANGES
         url: /cryptomanual/exchanges/
-      - title: Cryptocurrency Wallets
+      - title: WALLETS
         url: /cryptomanual/wallets/
-      - title: Privacy & Security
+      - title: PRIVACY & SECURITY
         url: /cryptomanual/privacy-security/
-      - title: Do Your Own Research (DYOR)
+      - title: RESEARCH (DYOR)
         url: /cryptomanual/research/
-      - title: Bitcoin & Blockchain
+      - title: BITCOIN & BLOCKCHAIN
         url: /cryptomanual/bitcoin-blockchain/
       # - title: Ethereum & Smart Contracts
       #   url: /cryptomanual/ethereum-smart-contracts/
-      - title: Investing & Trading
+      - title: INVESTING & TRADING
         url: /cryptomanual/investing-trading/
-      - title: Portfolio Management
+      - title: PORTFOLIO MANAGEMENT
         url: /cryptomanual/portfolio-management/
 
   - title: Down the Rabbit Hole
