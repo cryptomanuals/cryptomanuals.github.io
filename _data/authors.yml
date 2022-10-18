@@ -1,0 +1,26 @@
+Max Kruisbrink:
+  name        : "Max Kruisbrink"
+  bio         : "Show me your friends and I'll show you your future."
+  avatar      : "/assets/images/authors/optimised40%_max-casual-zw-transparant_tinypng.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Abe Dijkstra:
+  name        : "Abe Dijkstra"
+  bio         : "Empowering people through decentralization."
+  avatar      : "/assets/images/authors/optimised40%_abe-casual-zw-transparant_tinypng.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
