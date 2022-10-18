@@ -1,12 +1,47 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "Cryptomanual"
+     url: /cryptomanual/introduction/
+   - title: "Blog"
+     url: /blog/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+cryptomanual:
+  - title: Introduction
+    url: /cryptomanual/introduction/
+
+  - title: Cryptomanual
+    children:
+      - title: Cryptocurrency Exchanges
+        url: /cryptomanual/exchanges/
+      - title: Cryptocurrency Wallets
+        url: /cryptomanual/wallets/
+      - title: Privacy & Security
+        url: /cryptomanual/privacy-security/
+      - title: Do Your Own Research (DYOR)
+        url: /cryptomanual/research/
+      - title: Bitcoin & Blockchain
+        url: /cryptomanual/bitcoin-blockchain/
+      # - title: Ethereum & Smart Contracts
+      #   url: /cryptomanual/ethereum-smart-contracts/
+      - title: Investing & Trading
+        url: /cryptomanual/investing-trading/
+      - title: Portfolio Management
+        url: /cryptomanual/portfolio-management/
+
+  - title: Down the Rabbit Hole
+    children:        
+      - title: Ice Age of Cryptocurrencies
+        url: /cryptomanual/ice-age-of-cryptocurrencies/
+      - title: History of Money
+        url: /cryptomanual/history-of-money/
+      #- title: Future of Money
+      #  url: /cryptomanual/future-of-money/
+      #- title: History of the Ledger
+      #  url: /cryptomanual/ledger-history/
+      - title: Fourth Industrial Revolution
+        url: /cryptomanual/4th-industrial-revolution/
+     
