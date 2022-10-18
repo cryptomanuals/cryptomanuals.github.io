@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Cryptomanuals"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : # "Down the Rabbit Hole" # site tagline that appears below site title in masthead
+name                     : "Cryptomanuals"
+description              : "Down the Rabbit Hole."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/branding/CRYPTO_M_TXT_LOGO_YELLOW_RGB.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,18 +104,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Cryptomanuals"
+  avatar           : "/assets/images/branding/200220_CRYPTOMANUALS_SOCIAL_BLACK_2400px.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Writing about the opportunities that arise in crypto as we leave the old behind and transition to the new."
+  location         : "The Netherlands"
+  email            : "info@cryptomanuals.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:info@cryptomanuals.com"
+    - label: "Cryptocommunity"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://cryptocommunity.nl"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -181,8 +181,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -217,9 +215,9 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+permalink: blog/:categories/:title/
+paginate: 10 # amount of posts to show
+paginate_path: "page:num"
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -230,6 +228,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -276,6 +275,12 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  cryptomanual:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -290,3 +295,29 @@ defaults:
       comments: # true
       share: true
       related: true
+      toc: true
+      toc_sticky: true
+      toc_label: Table of Contents
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true     
+  # _cryptomanual
+  - scope:
+      path: ""
+      type: cryptomanual
+    values:
+      layout: single
+      share: true
+      toc: true
+      toc_sticky: true
+      toc_label: Table of Contents
+      sidebar:
+        nav: "cryptomanual"
+      header:
+        overlay_image: /assets/images/branding/20157_CRYPTO_COMMUNITY_DARK_SOCIAL_TWITTER_1500x500px.jpg
+        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+        caption: "[Credit: **Cryptocommunity**](https://www.cryptocommunity.nl/)"
