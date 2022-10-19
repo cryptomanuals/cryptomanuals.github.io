@@ -17,56 +17,20 @@ dynamics. Hence these values are subject to change and only serve as a
 first insight into the cryptocurrency market development of the last few
 years based on only a few parameters.
 
-::: {#tab:historicalmarketcap}
-  **Q**   **Date**     **Assets**   **Market cap.**      **24h vol.**          **BTC dom.**
-  ------- ------------ ------------ -------------------- ------------------- --------------
-  Q1      1-Jan-2015   533          \$ 5,483,191,815     \$ 17,590,900                78.3%
-  Q2      1-Apr-2015   553          \$ 3,951,215,532     \$ 26,496,700                87.5%
-  Q3      1-Jul-2015   588          \$ 4,450,571,456     \$ 41,494,000                83.2%
-  Q4      1-Oct-2015   599          \$ 4,015,520,613     \$ 23,581,000                86.5%
-  Q1      1-Jan-2016   573          \$ 7,135,452,840     \$ 48,482,900                91.3%
-  Q2      1-Apr-2016   541          \$ 8,137,620,941     \$ 80,037,900                78.8%
-  Q2      1-Jul-2016   608          \$ 12,788,684,228    \$ 170,788,000               83.0%
-  Q4      1-Oct-2016   650          \$ 12,228,772,789    \$ 86,459,400                79.4%
-  Q1      1-Jan-2017   636          \$ 18,260,123,309    \$ 121,072,000               87.2%
-  Q2      1-Apr-2017   763          \$ 26,095,849,095    \$ 578,474,000               67.2%
-  Q3      1-Jul-2017   880          \$ 95,604,911,387    \$ 2,715,040,000             41.1%
-  Q4      1-Oct-2017   1111         \$ 148,853,058,782   \$ 2,520,660,000             48.8%
-  Q1      1-Jan-2018   1365         \$ 616,875,617,584   \$ 24,719,400,000            38.2%
-  Q2      1-Apr-2018   1557         \$ 254,298,972,658   \$ 9,942,170,000             45.4%
-  Q3      1-Jul-2018   1573         \$ 257,373,095,796   \$ 13,875,600,000            42.6%
-  Q4      1-Oct-2018   1925         \$ 222,182,499,719   \$ 15,176,969,795            51.7%
-  Q1      1-Jan-2019   2076         \$ 129,940,274,883   \$ 13,463,554,390            51.6%
-  Q2      1-Apr-2019   2138         \$ 170,879,300,093   \$ 45,035,593,451            54.4%
-  Q3      1-Jul-2019   2254         \$ 310,619,496,955   \$ 58,374,967,544            65.3%
-  Q4      1-Oct-2019   N/A          \$ 221,235,513,684   \$ 61,555,937,344            65.3%
-  Q1      1-Jan-2020   5154         \$ 191,542,043,659   \$ 66,156,212,697            68.3%
-
-  : Historical snapshots cryptocurrency market capitalisation
-:::
-
-[]{#tab:historicalmarketcap label="tab:historicalmarketcap"}
-
 ## Volatility
 
-The global historical chart presented in
-[1.1](#fig:totalmarketcap){reference-type="ref"
-reference="fig:totalmarketcap"} shows an immense amount of volatility in
+The global historical market cap shows an immense amount of volatility in
 cryptocurrency markets. As you can see, total market hovered around
 \$1-2B in 2013 and peaked right before 2014 up to \$10B, it then
 remained rather constant up to 2017 where things started moving after
 massive amounts of liquidity entered the market. It has since then
-peaked at just over \$800B in early 2018 and has been receding ever
-since, with the occasional upward movements over a relatively small
-time-span. Speculation and hype drove market capitalization through the
-roof in late 2017 and early 2018. Everybody was talking about
+peaked at just over \$800B in early 2018 and has been moving in volatile cycles
+since. Speculation and hype drove market capitalization through the
+roof in late 2017, early 2018 and 2021. Everybody was talking about
 cryptocurrency and blockchain in those days, but regular fear-mongering
 sentiment was much around, and people were very skeptical of the future
 of cryptocurrency.
 
-![Global Market
-Capitalization](img/ch-iceage/cmc_mcapchart_feb2020.PNG){#fig:totalmarketcap
-width="\\textwidth"}
 
 ## Global Cryptocurrency Market Perspective
 
@@ -77,9 +41,7 @@ money, but let us put all that money in perspective shall we? gives you
 a feeling of the size of this market when compared to some of the main
 markets worldwide.
 
-![Cryptocurrency Market in
-Perspective](img/ch-iceage/bitcoin-money-economy-in-perspective-2018.jpg){#fig:Cryptocurrency market perspective
-width="\\textwidth"}
+<iframe src="/assets/images/rmd/hist_mcap.html" height="400px" width="100%" style="border:none;"></iframe>
 
 Can you even imagine a billion or a trillion dollars? Cryptocurrencies
 are a hot topic; not only during the bubble of late 2017/early 2018.
@@ -117,12 +79,12 @@ rid of the volatility and speculation, create liquidity, rid itself of
 bad actors and get regulated. All of this and more is needed to
 facilitate the way to mass adoption.
 
-::: tcolorbox
-*Speculation and hype were the dominant market forces during the bull
-market in 2017/2018. Almost every asset was overvalued, and at the same
+{: .notice--info}
+:bulb: *Speculation and hype were the dominant market forces during the bull
+markets in 2017/2018/2021. Almost every asset was overvalued, and at the same
 time, the creation of real value was few and far between. Unsustainable
-and unnatural growth defined this period.*
-:::
+and unnatural growth defined this period driven by the ICO boom, DeFi summer and NFT rage respectively.*
+
 
 ## Cryptocurrency Market Compared to S&P500
 
@@ -165,13 +127,12 @@ cryptocurrency Bitcoin. After the success of Bitcoin, many other
 peer-to-peer digital cryptocurrencies have emerged in an attempt to
 imitate that success.
 
-::: tcolorbox
-*While Bitcoin was the first cryptocurrency, and the only cryptocurrency
+{: .notice--info}
+:bulb: *While Bitcoin was the first cryptocurrency, and the only cryptocurrency
 tested on the biggest scale without any significant failure, it is now
 only one of more than a thousand cryptocurrencies, which all seek to
 improve upon Bitcoin or innovate, revolutionize and disrupt in various
 other segments.*
-:::
 
 Many of these altcoins have built upon the necessary frameworks provided
 by Bitcoin or have developed their blockchain architecture. Because of
@@ -187,16 +148,12 @@ means by which users can mine blocks and get rewarded and make use of
 application enhancements to - for example - increase user anonymity. As
 mentioned earlier, there are close to two thousand cryptocurrencies at
 this time, and that number is growing. Performing fundamental analysis
-on altcoins is a must before you make any decisions, and we've outlined
-the basics in our section about doing your research
-([\[ch:research\]](#ch:research){reference-type="ref"
-reference="ch:research"}). Ever since the altcoin explosion in 2017 -
+on altcoins is a must before you make any decisions. Ever since the altcoin explosion in 2017 -
 Bitcoins dominance has decreased significantly due to ever-increasing
-numbers of promising projects.
+numbers of promising projects and general market growth.
 
-![Percentage of the Global Market Cap
-(Dominance)](img/ch-iceage/cmc_domchart_feb2020.PNG){#fig:Total market capitalization dominance
-width="\\textwidth"}
+>
+***Coming soon**:<br>--Dominance Charts*
 
 ## Initial Coin Offerings (ICOs)
 
@@ -204,7 +161,7 @@ It is incredible to realize how much the altcoin market has grown in the
 last two years alone. ICOs have become so popular that well over 90% of
 total funds raised through this mechanism came from 2018 alone. While
 it's hard to put this sudden ICO explosion in context, there are
-animations and info-graphics[^1][^2] out there that do the phenomenon
+animations[^1] and info-graphics[^2] out there that do the phenomenon
 sufficient justice by showing a timeline of ICOs and funds raised since
 early 2014.
 
@@ -212,7 +169,7 @@ early 2014.
 
 There's a big difference between a typical ICO now and one in 2017. A
 staggering amount of ICO's didn't even make it to an exchange -
-according to a study performed on the quality of ICO's by Statis[^3].
+according to a study performed on the quality of ICO's by Statis.
 Most of the money is now being raised via private offerings, while
 public token sales have become rare. Why? Plying retail investors with
 high-stakes propositions that could (and often do) lose them a ton of
@@ -231,22 +188,9 @@ institutions), but the regulatory landscape is evolving rapidly. These
 factors might well have meant the end of your investment if you have
 invested at the peak of the bubble as prices plummeted and development
 ground to a standstill. You can check if a coin or project is reported
-as a scam or a dead coin on Coinopsy[^4] and on Deadcoins[^5]. This
-story has close ties with our section regarding how to perform your
-research ([\[ch:research\]](#ch:research){reference-type="ref"
-reference="ch:research"}) and prevent getting scammed.
+as a scam or a dead coin on Coinopsy[^4] or on Nomics[^5].
 
-[^1]: Elementus (39-09-2018); [ICO Market August
-    2018](https://elementus.io/blog/ico-market-august-2018).
-
-[^2]: Visual Capitalist (30-12-2017); [The Rise of the
-    ICO](https://www.visualcapitalist.com/the-rise-of-the-ico).
-
-[^3]: Medium (25-05-2018); [ICO quality: Development &
-    Trading](https://medium.com/satis-group/ico-quality-development-trading-e4fef28df04f).
-
-[^4]: Coinopsy (05-02-2019); [Dead
-    Coins](https://www.coinopsy.com/dead-coins).
-
-[^5]: Deadcoins (05-02-2019); [Full List of Dead
-    Coins](https://deadcoins.com).
+[^1]: Elementus (39-09-2018); [ICO Market August 2018](https://elementus.io/blog/ico-market-august-2018).
+[^2]: Visual Capitalist (30-12-2017); [The Rise of the ICO](https://www.visualcapitalist.com/the-rise-of-the-ico).
+[^4]: Coinopsy (05-02-2019); [Dead Coins](https://www.coinopsy.com/dead-coins).
+[^5]: Deadcoins (05-02-2019); [Full List of Dead Coins](https://nomics.com/?label=deadcoins).

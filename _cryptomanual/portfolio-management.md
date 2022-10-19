@@ -3,7 +3,7 @@ title: "Portfolio Management"
 excerpt: "The easy way to start learning about cryptocurrencies."
 ---
 
-# PORTFOLIO MANAGEMENT
+## What is portfolio management?
 
 Portfolio management is all about making decisions. With markets, you
 can identify strengths, weaknesses, threats, and opportunities. While
@@ -17,18 +17,16 @@ should take note. Let us first discuss the critical portfolio management
 concepts and continue with the main types of investments and asset
 classes.
 
-::: tcolorbox
-*Some investment opportunities are considered . Think about the
-profitability of investing in internet applications and protocols back
+{: .notice--info}
+:bulb: *Think about the profitability of investing in internet applications and protocols back
 in the day. Imagine investing in companies such as Apple and Facebook
 when they were still operating out of their garage. Think of Bitcoin and
 the development thereof. In 2008, many people lost trust in the banking
 system, invested in Bitcoin and took some serious risks. In hindsight,
 this has been a truly golden and almost once in a lifetime opportunity.
 What if we tell you there is more?*
-:::
 
-## Asset Classes - Types of Investments {#asset-classes---types-of-investments .unnumbered}
+## Different asset classes
 
 An asset class is a group of similar investments based on having similar
 characteristics and financial structure. These investments are typically
@@ -37,6 +35,71 @@ regulations, and you can categorize them by location. Investors and
 market analysts often view investments in domestic securities, foreign
 or international investments, and investments in emerging markets as
 different categories of investments.
+
+
+## Cryptocurrencies
+
+ICOs and cryptocurrencies (such as Bitcoin) can also be considered to be
+a subclass of cash or cash equivalents but although they are less
+liquid, more volatile and also often considered as high risk.
+Cryptocurrencies have high potential, and the long bear-markets after every cycle
+are providing plenty of opportunity for the avid risk-taker.
+
+## Cryptocurrency categories and classification
+
+The market for cryptocurrencies and tokens has exploded. The
+cryptocurrency space got its start with Bitcoin, a decentralized
+peer-to-peer cryptocurrency. Then Ethereum created a functional token,
+Ether (ETH) that acts as to a decentralized computer operating system.
+Many other tokens followed. A dynamic, rapidly-growing market to buy,
+sell and trade cryptocurrencies and tokens has been the result. There
+are now thousands of tokens - also, a myriad of token offerings, often
+known as a . While there is substantial public interest and demand for
+cryptocurrencies and tokens, there is little knowledge and structure to
+classify and organize tokens. The names that label tokens are mostly
+organic and not yet standardized.
+
+### Functional or utility tokens
+
+The first class of tokens is functional or utility tokens. The values of
+these tokens are derived from the thing to which they provide access.
+A bridge token that allows access to a bridge has a price derived by
+how much people are willing to pay to cross the bridge. Ether has a
+price that is derived by how much people are willing to pay for access to
+the Ethereum Virtual Machine or the distributed worldwide computer
+that runs Ethereum Applications. ETHOS is an ERC20 functional token
+spawn out of the Ethereum ecosystem that builds on the Ethereum
+Protocol Layer 4 as a set of applications providing access to the Ethos
+ecosystem. This ecosystem allows users, businesses, and institutions
+the ability to create financial applications powered by open standards.
+These tokens are closest to virtual commodities like oil, gas, steel, grain
+or gold.
+
+### Cryptocurrencies or transactional tokens
+
+The second class of tokens is transactional tokens or cryptocurrencies.
+These tokens don’t have any ‘inherent’ value, but they derive value from
+the network effect and belief that these tokens have value. Similarly, fiat
+currency is widely accepted as something that has value; Bitcoin has
+been widely accepted by people around the world to have value. Cryp-
+tocurrencies are harder to understand intuitively and are often criticized
+as being bubbles with no fundamental value backing them. These to-
+kens are closest to the virtual property since they are scarce, but unlike
+property, you can’t use them as a place to live. It is unclear whether cur-
+rencies in this category should be regulated as property, commodities
+or even currencies.
+
+### Representation or tokenized securities
+
+The third type of token is tokenized securities. These tokens derive
+value by representing something else of value - the most common be-
+ing a share of a company. The value proposition behind these tokens
+is evident, but need to be highly regulated just like any securities mar-
+ket and exchange should be. Ethereum provides an incredibly powerful
+platform for tokenized securities and the means to regulate them if ap-
+propriately constructed. Tokens that fall under this category should be
+regulated as securities.
+
 
 ## Stocks or Equities
 
@@ -88,37 +151,6 @@ underlying stocks.
 The primary advantage of cash or cash equivalent investments is their
 liquidity. Money held in the form of cash or cash equivalents can be
 quickly and easily accessed and traded at any time.
-
-## Cryptocurrencies
-
-ICOs and cryptocurrencies (such as Bitcoin) can also be considered to be
-a subclass of cash or cash equivalents but although they are less
-liquid, more volatile and also often considered as high risk.
-Cryptocurrencies have high potential, and the long bear-market of 2018
-is again providing plenty of opportunity for the avid risk-taker.
-
-### Cryptocurrencies - categories and classification
-
-The market for cryptocurrencies and tokens has exploded. The
-cryptocurrency space got its start with Bitcoin, a decentralized
-peer-to-peer cryptocurrency. Then Ethereum created a functional token,
-Ether (ETH) that acts as to a decentralized computer operating system.
-Many other tokens followed. A dynamic, rapidly-growing market to buy,
-sell and trade cryptocurrencies and tokens has been the result. There
-are now thousands of tokens - also, a myriad of token offerings, often
-known as a . While there is substantial public interest and demand for
-cryptocurrencies and tokens, there is little knowledge and structure to
-classify and organize tokens. The names that label tokens are mostly
-organic and not yet standardized[^1].
-
-::: tcolorbox
-:::
-
-::: tcolorbox
-:::
-
-::: tcolorbox
-:::
 
 ## Other Investments
 
@@ -172,11 +204,7 @@ classes in your portfolio, you increase the probability of some of your
 investments providing satisfactory returns even if others are flat or
 losing value. The practice of reducing investment portfolio risk by
 diversifying your investments across different asset classes and
-subclasses is referred to as asset allocation. An example portfolio and
-some generic portfolio allocations are shown in
-[\[fig:portfolio example,fig:portfolio allocation,fig:subclasses\]](#fig:portfolio example,fig:portfolio allocation,fig:subclasses){reference-type="ref"
-reference="fig:portfolio example,fig:portfolio allocation,fig:subclasses"} -
-let your imagination do the rest.
+subclasses is referred to as asset allocation. 
 
 ### Diversifying your portfolio
 
@@ -191,9 +219,13 @@ palladium, but at the same time, trade in oil and coffee beans. By
 simultaneously holding multiple sub-classes that are not correlated, you
 are effectively reducing risk.
 
-> ::: flushright
-> --- **Cryptomanuals**
-> :::
+>
+*"It often requires some (catastrophic) crisis to see what is in plain
+sight. When the next financial crisis hits us, the world economy (especially the financial sector and currencies) will suffer a massive
+blow, and billions of people will not have seen it coming. It is time
+to prepare: diversify out of fiat currencies, because this time it is
+global.”*<br> --**Cryptomanuals**
+
 
 ### Re-balancing your portfolio
 
@@ -217,10 +249,8 @@ are three common approaches to rebalancing:
 1.  Redirect money to the lagging asset classes until they return to the
     percentage of your total portfolio that they held in your original
     allocation.
-
 2.  Add new investments to the lagging asset classes, concentrating a
     larger percentage of your contributions to those classes.
-
 3.  Sell off a portion of your holdings within the asset classes that
     are outperforming others. You may then reinvest the profits in the
     lagging asset classes.
@@ -239,6 +269,9 @@ too emotionally attached to the investments, or you won't be ready to
 sell them when the opportunity arises.
 
 ## Recommendations
+
+{: .notice--warning}
+:warning: *Not financial advice*
 
 There are some essentials, which require additional attention when
 investing or trading and managing your investment or trading portfolio.
@@ -281,10 +314,6 @@ point, and you will be off to a good start.
 6.  Rebalancing and re-evaluating your portfolio occasionally is a
     perfect exercise. Make deliberate choices based on real and verified
     information.
-
-[^1]: Ethos (2017/2018); [Ethos Token Classification System: A Framework
-    for Understanding Types of Blockchain Based
-    Tokens](https://www.ethos.io/blockchain-finance/).
 
 [^2]: Finra; [Key Investing
     Topics](https://www.finra.org/investors/key-investing-concepts).

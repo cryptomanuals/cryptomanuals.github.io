@@ -3,7 +3,7 @@ title: "Investing & Trading"
 excerpt: "The easy way to start learning about cryptocurrencies."
 ---
 
-# INVESTING AND TRADING {#ch:investing}
+## The differences between investing and trading {#ch:investing}
 
 This section covers the basics of two strategies - investing and
 trading - which you can deploy to help you reach your goals. Investing
@@ -16,6 +16,8 @@ decisions. Invest only in projects which you have identified as having
 potential or trade solely based on proper technical analysis or other
 research efforts.
 
+### Investing
+
 Investing is the act of owning something, it could be an individual
 stock, a mutual fund, a property, or anything else you feel has less
 value today than you think it will have in the future. Trading is the
@@ -25,6 +27,8 @@ to something to earn a profit when the value increases. If you are a
 trader, then you are the person creating transactions. You are buying or
 selling the investments for yourself or others.
 
+### Trading
+
 Traders attempt to take advantage of short term market swings, while
 investors take a more long term approach. Both investors and traders
 seek profits through market participation. In general, investors seek
@@ -33,16 +37,14 @@ holding. Traders, by contrast, take advantage of both rising and falling
 markets to enter and exit positions over a shorter time frame, making
 smaller, more frequent profits.
 
-![Fear, Uncertainty, and Doubt (FUD) evolves into Fear Of Missing Out
-(FOMO)](img/ch-investing/FOMOFUD.png){#fig:FOMOFUD
-width=".6\\textwidth"}
+![FOMO & FUD]({{ site.url }}{{ site.baseurl }}/assets/images/FOMOFUD.png){: .align-center}
 
-## Disclaimer
 
-The cryptomanual is the beginning of a journey, not the end. Where we
-present stimulating reading material we base on multiple years of
+{: .notice--warning}
+:warning: ***Cryptomanuals** is the beginning of a journey, not the end. We
+present stimulating reading material based on personal
 research and experience, the results should only be treated as
-candidates for your own (further) research, not as a buy list or set of
+candidates for your own (further) research, not as a buy-list or set of
 recommendations. Screening may help narrow a search based on pre-defined
 criteria, but it is not a substitute for independent research reflecting
 your criteria for investing/trading. Where we offer our readers
@@ -51,7 +53,7 @@ purposes so that readers are equipped with the basic tools required to
 perform their own (e)valuations. Our content is simply a starting point
 based on global assumptions that we have applied across the entire
 market - users should amend them as they deem fit and not regard them as
-a substitute for their own judgment.
+a substitute for their own judgment.*
 
 ## Economic Cycles
 
@@ -59,9 +61,15 @@ Economic cycles or trade cycles are also known as business cycles. Solid
 (long-term) investment strategy should include and take into account the
 current position in the business cycle.
 
-::: tcolorbox
-*[^1]*
-:::
+{: .notice--info}
+:bulb: *The economic cycle is the natural fluctuation of the economy between
+periods of expansion (growth) and contraction (recession). Factors
+such as gross domestic product (GDP), interest rates, levels of employ-
+ment and consumer spending can help determine the current stage
+of the economic cycle. During times of expansion, investors seek to
+purchase companies in technology, capital goods, and primary energy
+sources. During times of contraction, investors look to buy shares of
+utility, financial and healthcare companies.* [^1]
 
 ### Business cycles
 
@@ -80,13 +88,15 @@ natural part of the economy. Others believe that central banks
 indirectly control and influence the cycle by intervening with monetary
 policy.
 
-![image](img/ch-investing/economic_cycle.jpg){width="\\textwidth"}
-[]{#fig:economiccycle1 label="fig:economiccycle1"}
+<figure class="half">
+  <a href="/assets/images/economic_cycle.jpg">
+  <img src="/assets/images/economic_cycle.jpg" alt="basic cycle"></a>
 
-![image](img/ch-investing/economic_cycletrend.jpg){width="\\textwidth"}
-[]{#fig:economiccycle2 label="fig:economiccycle2"}
+  <a href="/assets/images/economic_cycletrend.jpg">
+  <img src="/assets/images/economic_cycletrend.jpg" alt="cycle with upward trend"></a>
 
-[]{#fig:1-2 label="fig:1-2"}
+  <figcaption>Basic cycles, one including the upward trend.</figcaption>
+</figure>
 
 ### Credit cycles driving business cycles
 
@@ -149,11 +159,7 @@ days. Investors feel comfortable with their investment and can ride out
 the storm (if there is any) where traders might sell to take fewer
 profits in much shorter periods.
 
-![Market psychology is essentially what drives the so called and
-markets. In every stage of the emotional cycle there are decisions to be
-made by
-investors.](img/ch-investing/bear_bullmarket.jpg){#fig:bear_bullmarket
-width=".95\\textwidth"}
+![Cycles in the (cryptocurrency) market]({{ site.url }}{{ site.baseurl }}/assets/images/bear_bullmarket.jpg){: .align-center}
 
 ## Investing
 
@@ -172,12 +178,12 @@ you suffered will eventually recover. Investors are typically more
 concerned with market fundamentals, such as price/earnings ratios and
 management forecasts.
 
-::: tcolorbox
-*Investors speculate on the development of the cryptocurrency
+{: .notice--info}
+:bulb: *Investors speculate on the development of the cryptocurrency
 application and its eventual adoption, which will bring about a premium
 over its current prices. He or she minimizes risks by doing due
 diligence, diversification, and portfolio management.*
-:::
+
 
 As a rule of thumb, when investing, ask yourself the following question;
 do I want and need this and if so, how badly? Do I want to use this
@@ -192,21 +198,15 @@ might be of importance:
 
 1.  Technical analysis - entry and exit points $\longrightarrow$ buy
     low, sell high
-
 2.  Accumulation, periodic buys and dollar-cost averaging (same amount
     in US\$ or any other currency)
-
 3.  Don't be afraid to take profits! FOMO can lead to your emotions
     taking over
-
 4.  Learn to recognize your emotions and how they influence your
     decision making
-
 5.  Learn about your trading tools, i.e. use stop losses if so desired
-
 6.  Give your investments time to mature - try to imagine what your
     investment could be worth years from now
-
 7.  Periodically re-assess your situation and decide if you keep your
     position(s) or perhaps need to diversify, re-balance or buy/sell
 
@@ -218,13 +218,12 @@ as cryptocurrencies, to generate returns that outperform buy-and-hold
 investing as mentioned above. While investors may be content with a 10%
 to 15% annual return, traders might seek a 10% return each month.
 
-::: tcolorbox
-*Traders speculate a specific direction of the prices based on
+{: .notice--info}
+:bulb: *Traders speculate a specific direction of the prices based on
 historical data and patterns. In doing so, they minimize risk with a set
 of technical tools and expertise. Trading can be highly stressful, but
 traders may profit from both bear and bull markets at the cost of the
 considerable higher risk involved.*
-:::
 
 Trading profits are generated by buying at a lower price and selling at
 a higher price within a relatively short period. The reverse is also
@@ -242,23 +241,16 @@ oscillators, to find high-probability trading setups.
 In trading, several styles refer to the time-frame or holding period in
 which cryptocurrencies, stocks, commodities or other trading instruments
 are bought and sold. Traders generally fall into one of the four
-categories presented in [1.1](#tab:tradertypes){reference-type="ref"
-reference="tab:tradertypes"}. Traders often choose their trading style
+categories presented in the table below. Traders often choose their trading style
 based on factors including account size, amount of time that they can
 dedicate to trading, level of trading experience, personality and risk
 tolerance (high risk/reward ratio exposure).
 
-::: {#tab:tradertypes}
-  **Trader type**   **Positions held**
-  ----------------- -------------------------------------------------------
-  Position          from months to years (might also be called investing)
-  Swing             from days to weeks
-  Day               throughout the day only - no overnight positions
-  Scalp             for seconds to minutes with no overnight positions
-                    
-
-  : Trading styles
-:::
+  **Trader type**  | **Positions held**
+  Position         | from months to years (might also be called investing)
+  Swing            | from days to weeks
+  Day              | throughout the day only - no overnight positions
+  Scalp            | for seconds to minutes with no overnight positions
 
 ### Your emotions will impact your decision making
 
@@ -266,39 +258,23 @@ Whatever you want to buy, it will still be there tomorrow, and perhaps
 it will be even cheaper. Be aware of the following at all times and try
 not to let certain emotions impact your decision-making capabilities:
 
-1.  When markets move, so does overall market sentiment. People get
-    excited and are prone to overextend. Don't overextend. Recognize
-    hype and learn to take profits or risk losing it all.
-
-2.  Do not become emotionally attached to your investment - you will not
-    get every trade right; do not take it personally. Always aim for
+1.  **Only invest what you can afford to lose.**<br>
+    When markets move, so does overall market sentiment. People get
+    excited and are prone to overextend. Don't gamble, don't overextend. Recognize
+    hype and learn to take profits along the way or risk losing it all.
+2.  **Do not become emotionally attached to your investment.**<br>
+    You will not get every trade right; do not take it personally. Always aim for
     rational choices, but if you're aiming at the long term, keep your
     investment choices in line with your personal beliefs.
-
-3.  Do not get scammed. People may have their reasons for steering you
+3.  **Do not get scammed.**<br>
+    People may have their reasons for steering you
     in any particular direction. Your level of due diligence is directly
     related to your ability to recognize and identify a potential red
     flag.
-
-4.  Do not panic or give in to hype (FOMO - FUD). Rationally think about
+4.  **Do not panic or give in to hype (FOMO - FUD).**<br>
+    Rationally think about
     your decisions, based on your analysis, which is further
     substantiated by your research.
-
-## 3 Technical Trading Indicators for starters
-
-1.  RSI
-
-2.  STOCH
-
-3.  MACD
-
-## Entry and Exit Strategies
-
-1.  Stop Loss
-
-2.  Dollar cost average
-
-3.  
 
 [^1]: Investopedia; [What is the Economic
     Cycle](https://www.investopedia.com/terms/e/economic-cycle.asp).

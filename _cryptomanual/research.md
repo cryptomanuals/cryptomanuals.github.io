@@ -216,11 +216,7 @@ over the world, all of which tend to behave both rational and
 irrational, and when markets move, emotions play a significant role.
 Recognizing this will be vital for success.
 
-![Market psychology is essentially what drives the so-called and
-markets. In every stage of the emotional cycle, there are decisions to
-be made by
-investors.](img/ch-investing/bear_bullmarket.jpg){#fig:bear_bullmarket
-width=".95\\textwidth"}
+![Cycles in the (cryptocurrency) market]({{ site.url }}{{ site.baseurl }}/assets/images/bear_bullmarket.jpg){: .align-center}
 
 ### Bear markets
 
@@ -252,9 +248,8 @@ torrent of positive news which creates a feedback loop. At the end of a
 bull run, the overpriced stocks plummet which may cause additional risk
 if you didn't time your exit point carefully.
 
-![Fear, Uncertainty and Doubt (FUD) evolves into Fear Of Missing Out
-(FOMO).](img/ch-investing/FOMOFUD.png){#fig:FOMOFUD
-width=".6\\textwidth"}
+![FOMO & FUD]({{ site.url }}{{ site.baseurl }}/assets/images/FOMOFUD.png){: .align-center}
+
 
 Keep in mind, the price is what you pay, and value is what you get $-$
 pay too high a price, and returns are decimated. The value of a stock is
