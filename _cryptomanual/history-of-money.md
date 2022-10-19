@@ -3,7 +3,7 @@ title: "History of Money"
 excerpt: "The easy way to start learning about cryptocurrencies."
 ---
 
-# HISTORY OF MONEY {#ch:historyofmoney}
+## History of money
 
 How did we get here? How do we transfer value, and how did we do this in
 the past? When you think about it, what is currency and what is money?
@@ -18,11 +18,9 @@ services industry. Before we go there, let's first discuss the history
 of money, fiat currency and the current monetary system and policies of
 today.
 
-::: tcolorbox
-Throughout history, no fiat currency has ever survived, and all fiat
-currencies that have ever existed went to a value of zero
-[@thebigreset].
-:::
+{: .notice--info}
+:bulb: *Throughout history, no fiat currency has ever survived, and 
+[all fiat currencies that have ever existed went to a value of zero](https://www.amazon.com/Big-Reset-Revised-Financial-Endgame/dp/9462980276).
 
 ## Properties of money
 
@@ -35,17 +33,11 @@ Gold & Silver: Protect your Financial Future, Mike states that the
 following characteristics define sound money:
 
 1.  Money is a medium of exchange
-
 2.  Money is a unit of account
-
 3.  Money is durable and does not spoil or corrode
-
 4.  Money is portable
-
 5.  Money is divisible
-
 6.  Money is fungible (each unit is interchangeable)
-
 7.  **Money is a true store of value over time**
 
 ## Sound money
@@ -58,9 +50,11 @@ either sound money or backed by sound money. In the case of
 civilizations that used real gold and silver coins, problems only
 occurred after when governments started to debase their coinage. Meaning
 melting down your currency and adding an inferior base metal to increase
-the total coin supply [@goldsilver_ep1].
+the total coin supply.
 
-### Store of value over time {#store-of-value-over-time .unnumbered}
+{% include video id="DyV0OfU3-FU" provider="youtube" %}
+
+### Store of value over time
 
 The supply of gold is finite, effectively making it a scarce resource,
 both historically and today. It has and will always be necessary for
@@ -70,11 +64,11 @@ such as gold sound money. To top this off, nobody can produce or create
 more gold out of thin air, unlike the debt-based fiat currency based
 system we know today.
 
-> ::: flushright
-> --- **R.W. Jastram**
-> :::
+>
+"In 500 BC you could buy a Roman senators' Togo for one ounce of gold, you could purchase a Brooks Brothers suit in the 19th century for one ounce of gold, and today a new Italian suit is worth one ounce of gold."<br>--**R.W. Jastram**
 
-## Fake Money, Fake System
+
+## Fake money, fake system
 
 Unfortunately, today, countries no longer back their currencies with
 commodities anymore. For example, let's look at the pounds sterling (£)
@@ -89,7 +83,7 @@ no longer backed by sound money. Eventually, this leads to a situation
 where financial products, which add no value to the economy, are created
 exponentially.
 
-n the process, intermediaries, middlemen and banks, who are the creators
+In the process, intermediaries, middlemen and banks, who are the creators
 of those debt products, have made much profit and have simultaneously
 created an enormous amount of debt. Moreover, as financial products
 increase, the ratio of money that goes to products or services that add
@@ -99,15 +93,14 @@ allows them to conjure of credit out of thin air in forms of debt and
 loans and make money of interests. Debt is the product of the financial
 industry, and debt is how they are making a killing.
 
-::: tcolorbox
-Since the United States cancelled the convertibility of the US\$ to gold
-with the \"Nixon Shock\" in the 70s, national currencies have had freely
+{: .notice--info}
+:bulb: *Since the United States cancelled the convertibility of the US\$ to gold
+with the "Nixon Shock" in the 70s, national currencies have had freely
 floating exchange rates. Central banks' monetary policies have mainly
 dictated these rates. In 1971, the Nixon administration took the
 international dollar off the gold standard and from this moment the U.S.
 reverted to a system which depended only on fiat currency where the US\$
-was backed only by debts and promises.
-:::
+was backed only by debts and promises.*
 
 This decision still affects the world today because the US\$ was - and
 still is - the global reserve currency. Ever since, banks and financial
@@ -134,12 +127,9 @@ limit since the currency itself has no intrinsic value and is not backed
 by sound money such as gold);
 
 1.  Increase the money supply through borrowing
-
 2.  Increase the money supply through simply printing
-
 3.  Increase spending (the particularly harmful deficit spending of
     currency we don't have)
-
 4.  Impose burdensome regulations on small businesses and implement
     monetary policies to expand its control further
 
@@ -150,11 +140,11 @@ It doesn't matter if a gold coin has a value of \$120 or \$15000. The
 value lies in what real goods or services you can buy with it, not the
 absolute value expressed in some (national) fiat currency.
 
-> ::: flushright
-> --- **Voltaire**
-> :::
+> 
+*"Paper money eventually returns to its intrinsic value - zero."*<br>--**Voltaire**
 
-## Purchasing power {#purchasing-power .unnumbered}
+
+## Purchasing power
 
 Comparing gold to any fiat currency is like comparing apples to oranges.
 This is the same if we talk about paper fiat currency (cash) or digital
@@ -207,8 +197,9 @@ ineffective.
 This policy is nothing more than a process where the authoritative body
 injects an insane quantity of currency into the economy at near 0%
 interest rates to serve as a stimulus for the economy. Also referred to
-as \"credit expansion but ultimately, it's just more debt. Refer to
-[\[fig:fedgraph_debt_EU,fig:fedgraph_debt_US,fig:fedgraph_debt_JPN\]](#fig:fedgraph_debt_EU,fig:fedgraph_debt_US,fig:fedgraph_debt_JPN){reference-type="ref"
+as \"credit expansion but ultimately, it's just more debt. 
+
+Refer to [\[fig:fedgraph_debt_EU,fig:fedgraph_debt_US,fig:fedgraph_debt_JPN\]](#fig:fedgraph_debt_EU,fig:fedgraph_debt_US,fig:fedgraph_debt_JPN){reference-type="ref"
 reference="fig:fedgraph_debt_EU,fig:fedgraph_debt_US,fig:fedgraph_debt_JPN"}
 for an impression of ever-increasing debt levels (as a % of GDP) for the
 US, EU and Japan. There are now many countries around the world where
