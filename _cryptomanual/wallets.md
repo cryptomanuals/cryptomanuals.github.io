@@ -229,9 +229,6 @@ with you for easy access and liquidity purposes. Take some time to
 assess your requirements and only then decide on the most suitable
 wallet(s) for you.
 
-::: tabular
-llll
-
 **Wallet** | **Support** | **Platform** | **URL** |
 MetaMask | ETH | web | [metamask.io](https://metamask.io/)
 Ledger | multi | hardware | [ledger.com](https://shop.ledger.com/pages/ledger-nano-x?r=1849e3ffabd0)

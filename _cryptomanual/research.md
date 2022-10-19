@@ -3,7 +3,7 @@ title: "Do Your Own Research"
 excerpt: "The easy way to start learning about cryptocurrencies."
 ---
 
-# Do Your Own Research (DYOR) {#ch:research}
+## Do Your Own Research (DYOR) {#ch:research}
 
 Before you register for an exchange and rush in to get some
 cryptocurrency, it is vital to understand what you are purchasing. To
@@ -20,30 +20,13 @@ subject and perhaps get some for yourself. In that case, you might want
 to start with the story of Bitcoin and blockchain technology which have
 severe implications for the future.
 
-::: tipbox
-TIP In [\[app:A\]](#app:A){reference-type="ref" reference="app:A"} you
-will find a wide range of sources
-([\[tab:research_data,tab:social_infrastructure,tab:marketinsight_analyses,tab:learning_tools_general,tab:security_tools\]](#tab:research_data,tab:social_infrastructure,tab:marketinsight_analyses,tab:learning_tools_general,tab:security_tools){reference-type="ref"
-reference="tab:research_data,tab:social_infrastructure,tab:marketinsight_analyses,tab:learning_tools_general,tab:security_tools"}),
-that we've used over time to learn about Bitcoin, blockchain,
-cryptocurrency, money, and economics.
-:::
-
 Another example - and a logical next step - might be that you want to
 get involved with some of the alternative cryptocurrencies (altcoins)
 which are out there in droves. It is essential to understand that
 Bitcoin and blockchain are the fundamentals and it is crucial to
 understand these principles (at least in a general sense) before moving
 on to specific projects that involve cryptocurrency and are based on and
-make use of blockchain technology. Again, there is much information to
-be found on the subject of doing your research, which we will summarize
-in a concise checklist of elements. In
-[\[app:A\]](#app:A){reference-type="ref" reference="app:A"} you will
-find a broad range of tabulated resources
-([\[tab:research_data,tab:social_infrastructure,tab:marketinsight_analyses,tab:learning_tools_general,tab:security_tools\]](#tab:research_data,tab:social_infrastructure,tab:marketinsight_analyses,tab:learning_tools_general,tab:security_tools){reference-type="ref"
-reference="tab:research_data,tab:social_infrastructure,tab:marketinsight_analyses,tab:learning_tools_general,tab:security_tools"}),
-in which we have documented some of the resources we have used in our
-research efforts.
+make use of blockchain technology.
 
 ## Fundamental analysis {#sec:fundamentalanalysis}
 
@@ -68,53 +51,39 @@ forgetting to do your due diligence.
 1.  **Technological Foundations**
 
     -   How strong or innovative is the technology?
-
     -   Are there bugs, network issues or vulnerabilities?
-
     -   How good is the codebase?
-
     -   What is the trade-off between speed, scalability, and security
 
 2.  **Usefulness**
 
     -   Short term utility? Long term utility?
-
     -   Does this project, and the corresponding token intend to solve a
         problem?
-
     -   Is it better than what we already have? Why?
-
     -   Is there a foreseeable demand for the token? Is it useful?
 
 3.  **Development Team**
 
     -   Does this project have a dedicated development team?
-
     -   How strong are their credentials?
-
     -   What is each member's previous experience?
-
     -   Active contributions? Check commit history or activity on
         GitHub?
-
     -   How is the project funded?
 
 4.  **Community**
 
     -   Is there a passionate and friendly community behind the project?
-
     -   What is the level of activity in the community? How are people
         contributing?
 
 5.  **Governance**
 
     -   Is the project decentralized?
-
     -   Is the project open-source? Can you inspect the code for
         instance?
-
     -   Company funding, venture capital, foundation backing?
-
     -   Voting? Community influence?
 
 How are you going to obtain all of this information? From what sources?
@@ -134,8 +103,8 @@ would be the official social media and communication channels that the
 project has set up. You will find this information on the project
 website.
 
-::: cryptobox
-**STATE OF THE DAPPS** State of the DApps is a not-for-profit curated
+{: .notice--info}
+[State of the DApps](https://www.stateofthedapps.com) is a not-for-profit curated
 directory of Decentralized Applications, also called DApps, which run on
 various several blockchains. State of the DApps was initially created to
 categorize and showcase developed projects built on the Ethereum
@@ -146,11 +115,10 @@ users, which hosts a big inventory of the open source applications,
 games and all sources for Linux. In the State of the DApps there are
 many projects covering different fields such as health, games, virtual
 reality, artificial intelligence, education, registries, job markets,
-tinder for horses and many more. [State of the
-DApps](https://www.stateofthedapps.com); **Learn more about DApps**
-:::
+tinder for horses and many more.
 
-### Project progression and development {#project-progression-and-development .unnumbered}
+
+### Project progression and development
 
 It is essential to follow the projects' progression to assess if they
 are taking their road-maps, timelines, and deadlines seriously and if
@@ -165,13 +133,11 @@ opinion and beliefs. Obtaining diverse information, which you have
 gathered yourself, based on your experience, forms a crucial part of
 your decision whether to invest or not.
 
-::: tipbox
-**TIP** The cryptocurrency world is alive on Twitter! There are plenty
+{: .notice--info}
+:bulb: The cryptocurrency world is alive on Twitter! There are plenty
 of alternatives, but Twitter is 'the place to be'. Do you want to stay
 up to date with the latest developments within the cryptocurrency
-environment? Be sure to follow us on Twitter. [Follow the
-Rabbit](https://twitter.com/cryptomanuals) op Twitter.
-:::
+environment? Be sure to [Follow the Rabbit: @Cryptomanuals on Twitter](https://twitter.com/cryptomanuals).
 
 ## Coin statistics
 
@@ -185,28 +151,20 @@ analysis.
 1.  **Supply**
 
     -   Capped or Uncapped? Circulating vs. Total Supply?
-
     -   Current Supply?
-
     -   Emission and Inflation?
-
     -   Distribution? Token Holders, Development Team, Marketing?
 
 2.  **Algorithm**
 
     -   Block Time and Confirmations
-
     -   Consensus Mechanism? Proof of Work, Proof of Stake or something
         complete else?
-
     -   ASIC Resistance?
 
 3.  **Market Capitalization, Trading Volume, and Liquidity**
 
-    -   Check coin metrics on platforms such as listed in
-        [\[tab:marketinsight_analyses\]](#tab:marketinsight_analyses){reference-type="ref"
-        reference="tab:marketinsight_analyses"}
-
+    -   Check coin metrics on platforms such as Nomics, CoinGecko or CoinMarketCap
     -   Check ratios of Daily Trading Volume to Market Cap
 
 ## Technical analysis {#sec:technicalanalysis}
@@ -230,14 +188,12 @@ clue what technical analysis is, you could learn the basics to prepare
 yourself with the knowledge to assess the optimal entry or exit point in
 this volatile market.
 
-::: tipbox
-TIP Learn more about the most popular trading-indicators such as the
+{: .notice--info}
+:bulb: Learn more about the most popular trading-indicators such as the
 Bollinger Bands (BB), Relative Strength Index (RSI) and Moving Average
-Convergence Divergence (MACD) in [this
-article](https://medium.com/@harrynicholls/7-popular-technical-indicators-and-how-to-use-them-to-increase-your-trading-profits-7f13ffeb8d05).
+Convergence Divergence (MACD) in [this article](https://medium.com/@harrynicholls/7-popular-technical-indicators-and-how-to-use-them-to-increase-your-trading-profits-7f13ffeb8d05).
 Go to [TradingView](https://www.tradingview.com/) and add
 cryptocurrencies to your watchlist to track price movements.
-:::
 
 There are several platforms you could use to have a go at technical
 analysis, and there are even platforms that provide you with several
@@ -311,9 +267,9 @@ Act greedy when others are fearful and reap enhanced profits. Explained;
 buy low, sell high and try to keep those emotions in check while making
 important decisions.
 
-::: tipbox
-**TIP** Learn to control your emotions when making important decisions.
+{: .notice--info}
+:bulb: *Learn to control your emotions when making important decisions.
 Keep thinking critically, draw up a strategy, and be aware of the
 prevailing market sentiments and market psychology at the moment you
-decide to buy-in or buy-out.
-:::
+decide to buy-in or buy-out.*
+

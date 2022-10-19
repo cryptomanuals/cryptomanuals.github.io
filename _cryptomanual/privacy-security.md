@@ -240,34 +240,26 @@ Learn more at
 
 Legit online activities will ***always***:
 
-1.  \... call customers by their name.
-
-2.  \... use their own, company-related domain names.
-
-3.  \... use correct language and grammar.
+1.  call customers by their name.
+2.  use their own, company-related domain names.
+3.  use correct language and grammar.
 
 Legit online activities will ***never***:
 
-1.  \... request sensitive information via e-mail.
-
-2.  \... give away vast amounts of free crypto on social media or other
-    platforms.
-
-3.  \... try to persuade people to click on buttons and links to get
+1.  request sensitive information via e-mail.
+2.  give away free crypto on social media or other platforms.
+3.  try to bait you to click on buttons/links to get
     important information.
-
-4.  \... send unsolicited attachments.
+4.  send unsolicited attachments.
 
 The information in this e-manual is intended to help you enter the
 market with the required basic knowledge and tools to keep it as safe as
 you possibly can. Don't be irresponsible, take the topic of online
-safety seriously, even beyond the cryptocurrency space.If you act
+safety seriously, even beyond the cryptocurrency space. If you act
 carelessly in terms of security, you expose yourself to unnecessary
 risks and increase the chances of your funds being compromised.
 
-> ::: flushright
-> --- **cryptomanuals**
-> :::
+>
+*"As you are your own bank(er), you - and you alone - are responsible for your investments."*<br> --**cryptomanuals**
 
-[^1]: AccessNow (13-06-2019); [Digital
-    Security](https://www.accessnow.org/cms/assets/uploads/2019/08/Digital-Security-Start-Booklet-digital-Aug2019.pdf).
+[^1]: AccessNow (13-06-2019); [Digital Security](https://www.accessnow.org/cms/assets/uploads/2019/08/Digital-Security-Start-Booklet-digital-Aug2019.pdf).

@@ -2,6 +2,10 @@
 title: "Introduction"
 excerpt: "Start here when you want to learn about cryptocurrency."
 ---
+{: .notice--warning}
+:warning: **Disclaimer**<br>
+The views expressed in the Cryptomanual are those of the authors' and should not be considered as financial advice.
+The material provided is for research and information purposes only and does not constitute advice or recommendations. Any products referenced or linked in the content are not endorsed by the author and people who choose to pursue particular products or services cannot hold the authors liable for any losses or other problems experienced.
 
 ## Why the Cryptomanual?
 
