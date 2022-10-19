@@ -34,14 +34,14 @@ cryptomanual:
 
   - title: Down the Rabbit Hole
     children:        
-      - title: Ice Age of Cryptocurrencies
+      - title: ICE AGE OF CRYPTOCURRENCIES
         url: /cryptomanual/ice-age-of-cryptocurrencies/
-      - title: History of Money
+      - title: HISTORY OF MONEY
         url: /cryptomanual/history-of-money/
       #- title: Future of Money
       #  url: /cryptomanual/future-of-money/
       #- title: History of the Ledger
       #  url: /cryptomanual/ledger-history/
-      - title: Fourth Industrial Revolution
+      - title: FOURTH INDUSTRIAL (R)EVOLUTION
         url: /cryptomanual/4th-industrial-revolution/
      
