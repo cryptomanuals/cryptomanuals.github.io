@@ -143,7 +143,6 @@ absolute value expressed in some (national) fiat currency.
 > 
 *"Paper money eventually returns to its intrinsic value - zero."*<br>--**Voltaire**
 
-
 ## Purchasing power
 
 Comparing gold to any fiat currency is like comparing apples to oranges.
@@ -197,31 +196,7 @@ ineffective.
 This policy is nothing more than a process where the authoritative body
 injects an insane quantity of currency into the economy at near 0%
 interest rates to serve as a stimulus for the economy. Also referred to
-as \"credit expansion but ultimately, it's just more debt. 
-
-Refer to [\[fig:fedgraph_debt_EU,fig:fedgraph_debt_US,fig:fedgraph_debt_JPN\]](#fig:fedgraph_debt_EU,fig:fedgraph_debt_US,fig:fedgraph_debt_JPN){reference-type="ref"
-reference="fig:fedgraph_debt_EU,fig:fedgraph_debt_US,fig:fedgraph_debt_JPN"}
-for an impression of ever-increasing debt levels (as a % of GDP) for the
-US, EU and Japan. There are now many countries around the world where
-this policy is applied.
-
-![Central Government debt, total % of GDP for the Euro
-Area](img/ch-history/fredgraph_debt_EU.png){#fig:fedgraph_debt_EU
-width="\\textwidth"}
-
-[]{#fig:fedgraph_debt_EU label="fig:fedgraph_debt_EU"}
-
-![Federal Government total public debt as a % of GDP for the
-US](img/ch-history/fredgraph_debt_US.png){#fig:fedgraph_debt_US
-width="\\textwidth"}
-
-[]{#fig:fedgraph_debt_US label="fig:fedgraph_debt_US"}
-
-![Central Government debt, total % of GDP for
-Japan](img/ch-history/fredgraph_debt_JPN.png){#fig:fedgraph_debt_JPN
-width="\\textwidth"}
-
-[]{#fig:fedgraph_debt_JPN label="fig:fedgraph_debt_JPN"}
+as 'credit expansion' but ultimately, it's just more debt. 
 
 ## Post financial crisis 2008
 
@@ -230,9 +205,9 @@ financial crisis of '08. Inevitably, when interest rates are going to
 rise again, the lion's share of all debtors will have immense problems
 to pay off their debt plus added interest.
 
-> ::: flushright
-> --- **Mauldin Economics**
-> :::
+>
+*"In 2000 we had the dot-com bubble. In 2008 we had the hous-
+ing bubble. In 2019 we have the everything bubble."*<br>--**Mauldin Economics**
 
 In the previous financial crashes, central banks had an opportunity to
 stimulate the economy by lowering interest rates, which made capital
@@ -257,24 +232,9 @@ Venezuela has suffered from severe hyperinflation. Such an event has the
 potential to obliterate the saving accounts of entire generations, and
 all of our currency suddenly becomes worthless paper.
 
-::: {#tab:inflationratescountries}
-  ------------- --------------------------- -------- -------- --------
-  **Country**   **Inflation rates \[%\]**                     
-                Q4 "18                      Q1 "19   Q2 "19   Q4 "19
-  Venezuela     1698488                              282973   39114
-  Argentina     47.1                                 57.3     52.9
-  Sudan                                     43.5     44.6     57.7
-  South Sudan   33.5                                 56.1     69
-  Zimbabwe      42.1                                 97.9     521
-  Iran          39.9                                 52.2     27.8
-  Liberia       26.6                                 23.3     30.9
-  Turkey                                    20.4     18.7     11.8
-  ------------- --------------------------- -------- -------- --------
+>
+inflation rates
 
-  : Inflation rates $>$ 20%
-:::
-
-[]{#tab:inflationratescountries label="tab:inflationratescountries"}
 
 In short, the history of fiat currencies is a history of volatility. The
 average lifespan of a fiat currency is only twenty-seven (27) years.
@@ -299,18 +259,13 @@ will execute securely and effectively. While these intermediaries are
 crucial to our digital economy, there are some significant issues.
 
 -   They use centralized databases which face high risks of being hacked
-
 -   They exclude billions of people, who lack access to resources and
     capital, from the global economy
-
 -   They charge transaction fees in the form of hefty commissions, not
     to mention the major timing inefficiencies
-
 -   They undermine the privacy of the users when they track and use our
     data as a function of their marketing efforts and business model
-
 -   They have appropriated the largest of the digital age
     asymmetrically, as we have wealth creation but growing economic and
     social inequality
 
-> ***Follow the Rabbit: Enter blockchain***

@@ -3,7 +3,12 @@ title: "4th Industrial Revolution"
 excerpt: "The easy way to start learning about cryptocurrencies."
 ---
 
-# 4TH INDUSTRIAL \[R\]EVOLUTION {#ch:Fourth}
+## Third industrial revolution
+The term was coined by [Jermey Rifkin](https://en.wikipedia.org/wiki/Jeremy_Rifkin). Watch the full documentary video below for his take on the times we live in.
+
+{% include video id="QX3M8Ka9vUA" provider="youtube" %}
+
+## Fourth industrial (r)evolution?
 
 The fourth industrial revolution builds on the second wave of
 digitization, representing new ways in which technology becomes embedded
@@ -11,16 +16,7 @@ within societies and the human mind and body. The Fourth Industrial
 Revolution is marked by emerging technology breakthroughs in several
 fields, including blockchain, robotics, artificial intelligence,
 nanotechnology, quantum computing, biotechnology, The Internet of Things
-(IoT), 3D printing and autonomous vehicles
-([1.1](#fig:mapping global transformation){reference-type="ref"
-reference="fig:mapping global transformation"}).
-
-![Fourth Industrial Revolution. Mapping global transformations
-tool.](img/ch-revolution/WEF_fourth_industrial_revolution.jpg){#fig:mapping global transformation
-width=".9\\textwidth"}
-
-[]{#fig:mapping global transformation
-label="fig:mapping global transformation"}
+(IoT), 3D printing and autonomous vehicles.
 
 ## Exponential science
 
@@ -43,9 +39,11 @@ coming years will be of crucial importance as governmental bodies,
 regulators and legislators might not keep up with the rapid changes in
 technology and infrastructure and seek to contain or prohibit its uses.
 
-> ::: flushright
-> --- **Kurzweil, Ray**
-> :::
+>
+"Technology goes beyond mere tool making; it is a process of
+creating ever more powerful technology using the tools from the
+previous round of innovation."<br>--**Kurzweil, Ray**
+
 
 Everybody will be aware of the ongoing debate around big-data and data
 monopolies by large technology companies such as Amazon, Google and
@@ -63,9 +61,14 @@ assimilated when considered a threat to the monopolistic business model.
 New players - making use of decentralized and open-source technology
 have now entered the arena and are preparing to take on the fight.
 
-> ::: flushright
-> --- **Schwab, Klaus**
-> :::
+>
+"Debates about fundamental issues such as the impact on our
+inner lives of the loss of control over our data will only intensify in
+the years ahead. Similarly, the revolutions occurring in biotechnol-
+ogy and AI, which are redefining what it means to be human by
+pushing back the current thresholds of life span, health, cognition,
+and capabilities, will compel us to redefine our moral and ethical
+boundaries."<br> --**Schwab, Klaus**
 
 ## Fusing technologies
 
@@ -74,6 +77,12 @@ compared with the industrial revolutions we have witnessed in the past.
 A crucial characterization is that it builds upon the fusion of (new)
 technologies, and there is increasing compatibility between - and
 collaboration of - various research disciplines.
+
+<figure style="width: 80%" class="align-center">
+  <a href="/assets/images/WEF_fourth_industrial_revolution.jpeg" title="WEF 4th industrial revolution mapping tool" alt="WEF 4th industrial revolution mapping tool">
+  <img src="/assets/images/WEF_fourth_industrial_revolution.jpeg" alt=""></a>
+  <figcaption>Fourth Industrial Revolution. World Economic Forum (WEF) mapping global transformations tool.</figcaption>
+</figure>
 
 The main catalysts of this phenomenon are our ever-increasing digital
 capabilities. Almost every new scientific development or breakthrough
@@ -105,22 +114,27 @@ perform more diverse and broad ranges of tasks.
 
 These systems are now able to access real-time information remotely via
 the cloud and connect to exchange and analyze data and learn
-collectively ([1.2](#fig:IOTsensors.jpg){reference-type="ref"
-reference="fig:IOTsensors.jpg"}). In the age of the Internet of Things
+collectively. In the age of the Internet of Things
 (IoT), there will be an increasing emphasis on real-time data gathering,
 data analyses and human-machine collaboration.
 
-::: tcolorbox
-:::
+{: .notice--info}
+:bulb: *The internet gave us the possibilities to connect in ways we would
+never have dreamed possible. The Internet of Things will take us be-
+yond the connection to become part of a living, breathing and moving
+global nervous system.*
 
-![Internet of Things (IoT) sensors & actuators. We are giving our world
-a digital nervous system; location data using GPS sensors, eyes and ears
-using cameras and microphones, along with sensory organs that can
-measure and record everything (in real-time) from temperature to
-pressure changes.](img/ch-revolution/IOTsensors.jpg){#fig:IOTsensors.jpg
-width="\\textwidth"}
+<figure style="width: 80%" class="align-center">
+  <a href="/assets/images/IOTsensors.jpeg" title="IOT sensors" alt="IOT sensors">
+  <img src="/assets/images/IOTsensors.jpeg" alt=""></a>
+  <figcaption>Internet of Things (IoT) sensors & actuators. We are giving our world
+                a digital nervous system; location data using GPS sensors, eyes and ears
+                using cameras and microphones, along with sensory organs that can
+                measure and record everything (in real-time) from temperature to
+                pressure changes.</figcaption>
+</figure>
 
-[]{#fig:IOTsensors.jpg label="fig:IOTsensors.jpg"}
+
 
 ## Merging worlds
 
@@ -174,8 +188,7 @@ empathy, stewardship - it can also lift humanity into a new collective
 and moral consciousness based on a shared sense of destiny. It is
 incumbent on us all to make sure the latter prevails.
 
-> ::: flushright
-> --- **Heraclitus**
-> :::
+>
+"The only thing that is constant, is change."<br>--**Heraclitus**
 
 [^1]: <https://ghr.nlm.nih.gov/primer/genomicresearch/genomeediting>
