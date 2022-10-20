@@ -34,3 +34,4 @@ _reports
 *.Rproj
 .*Rproj.user
 
+.Rproj.user
