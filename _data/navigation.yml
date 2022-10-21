@@ -4,6 +4,8 @@ main:
      url: /cryptomanual/introduction/
    - title: "Blog"
      url: /blog/
+   - title: "Videos"
+     url: /videos/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -38,10 +40,10 @@ cryptomanual:
         url: /cryptomanual/ice-age-of-cryptocurrencies/
       - title: HISTORY OF MONEY
         url: /cryptomanual/history-of-money/
-      #- title: Future of Money
-      #  url: /cryptomanual/future-of-money/
-      #- title: History of the Ledger
-      #  url: /cryptomanual/ledger-history/
+      - title: FUTURE OF MONEY
+        url: /cryptomanual/future-of-money/
+      - title: HISTORY OF THE LEDGER
+        url: /cryptomanual/history-of-the-ledger/
       - title: FOURTH INDUSTRIAL (R)EVOLUTION
         url: /cryptomanual/4th-industrial-revolution/
      

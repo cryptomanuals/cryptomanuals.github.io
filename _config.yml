@@ -23,7 +23,7 @@ name                     : "Cryptomanuals"
 description              : "Down the Rabbit Hole."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "cryptomanuals/cryptomanuals.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/branding/CRYPTO_M_TXT_LOGO_YELLOW_RGB.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
@@ -90,8 +90,8 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : Cryptomanuals # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
@@ -110,21 +110,18 @@ author:
   location         : "The Netherlands"
   email            : "info@cryptomanuals.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@cryptomanuals.com"
     - label: "Cryptocommunity"
       icon: "fas fa-fw fa-link"
       url: "https://cryptocommunity.nl"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/cryptomanuals"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/Cryptomanuals/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/cryptomanuals"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -134,22 +131,22 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/cryptomanuals"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/Cryptomanuals/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/cryptomanuals"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Privacy Policy"
+      icon: "fab fa-fw fas fa-user-secret"
+      url: "/privacy-policy"
 
 
 # Reading Files
