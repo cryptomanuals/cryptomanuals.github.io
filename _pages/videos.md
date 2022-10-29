@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /videos
+permalink: /videos/
 title: "Top Videos"
 excerpt: "A collection of superb videos to learn about finance and the economy and the cryptocurrency & blockchain transformation."
 header:
